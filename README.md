@@ -1,4 +1,6 @@
-![gato-teclea-google-1549987320](https://user-images.githubusercontent.com/95089164/164022079-f76ea719-b0f6-493c-9bd7-8030a2d7912b.gif)
+<p align="center">
+![gato-teclea-google-1549987320]https://user-images.githubusercontent.com/95089164/164022079-f76ea719-b0f6-493c-9bd7-8030a2d7912b.gif</p>
+
 
 
 ### Hola, soy Norkis Rivero 👋
